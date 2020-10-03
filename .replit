@@ -1,1 +1,2 @@
-yada yada
+run = "bash run_button.sh"
+language = "java10"
